@@ -1,8 +1,7 @@
 
 ## Cat-vs-Dog-Classification
 
-A Convolutional Neural Network (CNN) model for classifying images of cats and dogs. The model is built using TensorFlow/Keras and utilizes transfer learning with the VGG16 architecture.
-
+A Convolutional Neural Network (CNN) model for classifying images of cats and dogs. The model is built using TensorFlow Keras.
 ### 1. Data Preprocessing
 
 - **Normalization**: Scale pixel values to the range [0, 1] by dividing by 255.
